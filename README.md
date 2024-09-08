@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kanha-agr
 - 👀 Passionate about Cloud Computing, Data Science, and Web Development
-- Pursuing M.Tech in Data Science from IIT Madras
+- Pursuing  Data Science from IIT Madras
+- B.TECH from lnct main cse '28
 - i'm in
     - Web Development using Express.js and MERN Stack
     - Python programming
