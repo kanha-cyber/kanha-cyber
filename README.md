@@ -7,10 +7,7 @@
     - Python programming
     - Cloud Computing 
 - Exploring new technologies and collaborating on innovative projects
-- Let's connect and build something amazing together!"
-
-
-- 🌱 I’m currently learning ...DSA in java 
+- Let's connect and build something amazing together
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - instagram - @kanhagoyal020
